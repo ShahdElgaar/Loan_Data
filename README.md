@@ -47,7 +47,7 @@ README.md → Project overview and key insights
 
 -Python
 
--Jupyter Notebook
+-Google Collab
 
 -VS Code
 
